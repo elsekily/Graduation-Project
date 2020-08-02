@@ -5,8 +5,5 @@ local broker
 	project/hum
 	project/motor
 adafruit broker
-	elsekily/feeds/project.motor
-	elsekily/feeds/project.moisture01
-	elsekily/feeds/project.moisture02
-	elsekily/feeds/project.temperature
-	elsekily/feeds/project.humidity
+	elsekily/feeds/project.server
+	elsekily/feeds/project.device
